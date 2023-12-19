@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
 body {
   /* Change to something you like, but please do customize the font! */
   font-family: Courier, monospace;
@@ -7,9 +11,18 @@ body {
   max-width: 800px;
   margin: auto;  
   padding: 2em;
+  font-family: 'Raleway', sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6 {
+  font-family: 'Bungee', cursive;
   font-weight: normal;
-  
 }
+
+/* Help from copilot */
+.about-me {
+  border: 2px solid yellow;
+  background-color: crimson;
+  text-align: center;
+}
+
