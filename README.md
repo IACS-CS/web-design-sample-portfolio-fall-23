@@ -1,4 +1,5 @@
 # Simple Web Design Project
+[Screencast](./SCREENCAST.md)
 
 Welcome to our simple web design project! This project is designed to help you get started with HTML, CSS, and JavaScript in an easy-to-understand environment.
 
