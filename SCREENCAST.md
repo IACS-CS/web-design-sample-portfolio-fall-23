@@ -1,4 +1,4 @@
-# Screencast Steps:
+# Learning to Use Github Codespaces
 
 1. Opening Codespace and Installing Extensions
 2. Finding and Editing your Code
